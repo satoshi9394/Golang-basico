@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func forGo() {
 	// For condicional
 	for i := 0; i < 10; i++ {
 		fmt.Println(i)

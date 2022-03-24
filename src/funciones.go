@@ -18,7 +18,7 @@ func doubleReturn(a int) (c, d int) {
 	return a, a * 2
 }
 
-func main() {
+func funciones() {
 	normalFuncion("hello word")
 	tripeArgument(1, 2, "hola")
 	value := returnValue(2)

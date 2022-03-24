@@ -6,7 +6,7 @@ import (
 	myPk "Golang-basic/src/mypackage"
 )
 
-func main() {
+func paquetesPublicPriv() {
 	var myCar myPk.CarPublic
 	myCar.Brand = "Ferrari"
 	myCar.Year = 2011

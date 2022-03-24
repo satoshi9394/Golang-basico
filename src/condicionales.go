@@ -6,7 +6,7 @@ import (
 	"strconv"
 )
 
-func main() {
+func condicionalesGo() {
 	valor1 := 1
 	valor2 := 2
 

@@ -4,7 +4,7 @@ import (
 	"fmt"
 )
 
-func main() {
+func arraysSlice() {
 	// Array
 	var array [4]int
 	array[0] = 1

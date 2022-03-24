@@ -18,7 +18,7 @@ func isPalindomo(text string) {
 	}
 }
 
-func main() {
+func rangesSlice() {
 	slice := []string{"hola", "que", "hace"}
 
 	for i, valor := range slice {

@@ -4,7 +4,7 @@ import (
 	"fmt"
 )
 
-func main() {
+func defender() {
 	// Defer para ejecutar antes de que muera la funcion (ultima ejecucion)
 	defer fmt.Println("Hola")
 	fmt.Println("mundo")

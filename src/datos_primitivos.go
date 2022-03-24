@@ -1,6 +1,6 @@
 package main
 
-func main() {
+func datosPrimitivos() {
 
 	//Numeros enteros
 	//int = Depende del OS (32 o 64 bits)

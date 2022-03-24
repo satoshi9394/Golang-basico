@@ -5,7 +5,7 @@ import (
 	"math"
 )
 
-func main() {
+func operadores_arit() {
 
 	// Area cuadrado
 	const baseCuadrado = 10

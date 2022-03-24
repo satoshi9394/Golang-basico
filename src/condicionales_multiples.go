@@ -4,7 +4,7 @@ import (
 	"fmt"
 )
 
-func main() {
+func condicionales_multiples() {
 	// modulo := 6 % 2
 
 	switch modulo := 6 % 2; modulo {
